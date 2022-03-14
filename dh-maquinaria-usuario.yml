@@ -1,2 +1,5 @@
+server:
+  port: 8081
+
 login: 3
 emails: @outlook.com, @gmail.com, @digitalhouse.com

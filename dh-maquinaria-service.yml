@@ -1,2 +1,5 @@
+server:
+  port: 8082
+
 registro: https://www.dnrpa.gov.ar/portal_dnrpa
 maquinaria-max: 650
